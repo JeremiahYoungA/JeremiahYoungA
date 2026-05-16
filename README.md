@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Jeremiah! 👋
 
-<!--
-**JeremiahYoungA/JeremiahYoungA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an Electrical and Computer Engineering dual-degree student at Oklahoma State University, specializing in digital signal processing, computational electromagnetics, and sensor algorithms.
 
-Here are some ideas to get you started:
+### 🔭 Current Focus & Trajectory
+- **Signal Processing:** Developing real-time processing pipelines, most recent project was a hexagonal tic tac toe engine, find that here: https://github.com/JeremiahYoungA/ECEN-4293-Final
+- **Industry Experience:** Software Engineering Intern on the Sensor Algorithm Team at Garmin (Summer 2026).
+- **Graduate Studies:** Transitioning into a Master of Science in Electrical Engineering (MSEE) program in Spring 2027 to deepen my understanding of electromagnetics for future antenna centric algorithms
+### 🛠️ Tech Stack & Tools
+* **Languages:** Python, C/C++, SystemVerilog
+* **Computation & Modeling:** NumPy, SciPy, CuPy, MATLAB
+* **Design & Workflow:** Git, LaTeX
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+📬 **Contact:** jeremiah.young@okstate.edu
